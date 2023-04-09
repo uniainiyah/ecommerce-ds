@@ -20,7 +20,7 @@ Berikut adalah tahapan yang dilakukan dalam proyek ini:
 ### Final Stage: The Day for Final Presentation
 
 ## Kontributor
-- Mezky Matthew Yandito
+- [Mezky Matthew Yandito](https://github.com/mezkymy)
 - Fariyatul Ainiyah
 - Ariella Arima Aniendra
 - Dicky Maulana Rozi
