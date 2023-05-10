@@ -35,10 +35,9 @@ Beberapa tahapan yang dilakukan pada pre-processing:
 
 ## Kontributor
 - [Mezky Matthew Yandito](https://github.com/mezkymy)
-- Fariyatul Ainiyah
-- Ariella Arima Aniendra
-- Dicky Maulana Rozi
-- Mufid Habiburrahman
-- Muhamad Fariduddin Syafiq
-- Muhammad Raffi Yudhistira
-- Een Subaeni
+- [Fariyatul Ainiyah](https://github.com/uniainiyah)
+- [Ariella Arima Aniendra](https://github.com/arllarima)
+- [Dicky Maulana Rozi](https://github.com/dickymrz)
+- [Mufid Habiburrahman](https://github.com/hrmufid)
+- [Muhamad Fariduddin Syafiq](https://github.com/MFSyafiq)
+- [Muhammad Raffi Yudhistira](https://github.com/Mraffiy33)
