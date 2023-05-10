@@ -1,4 +1,4 @@
-# ecommerce-ds
+# E-Commerce Shipping Data Analysis and Prediction Model
 Final Project DS Rakamin Batch 31 - Kelompok 4 (Cobra)
 
 ## Data
