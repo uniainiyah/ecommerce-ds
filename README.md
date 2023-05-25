@@ -40,12 +40,12 @@ Berdasarkan hasil cross validation dengan menggunakan skor recall, dipilih model
 
 Beberapa rekomendasi yang dapat dilakukan sebagai tindak lanjut:
 1. Perlu pengumpulan data yang lebih banyak dan lengkap untuk memperkuat kekuatan prediksi model, contohnya dengan menambah fitur data terkait dengan:
-  - Waktu Keterlambatan: supaya model tidak hanya dapat memprediksi apakah pengiriman terlambat atau tidak, namun juga estimasi durasi keterlambatan
-  - Tanggal Pengiriman: apakah pengiriman terlambat terjadi pada rentang waktu tertentu, seperti hari libur?
-  - Wilayah Pengiriman: apakah pengiriman terlambat terjadi pada wilayah-wilayah tertentu saja?
-  - Jenis/Jasa Kurir: apakah pengiriman yang terlambat memiliki keterkaitan terhadap jasa kurir yang digunakan?
-  - Jenis promo/diskon yang ditawarkan: apakah diskon di atas 10% diberikan sebagai bentuk cuci gudang terhadap barang-barang yang tidak terlalu diminati?
-  - Tipe/kategori barang elektronik yang dijual (TV, Gadget, dll): apakah barang-barang pada rentang berat yang dibentuk merupakan tipe barang yang sejenis, dan apakah ada keterkaitannya terhadap keterlambatan pengiriman?
+    - Waktu Keterlambatan: supaya model tidak hanya dapat memprediksi apakah pengiriman terlambat atau tidak, namun juga estimasi durasi keterlambatan
+    - Tanggal Pengiriman: apakah pengiriman terlambat terjadi pada rentang waktu tertentu, seperti hari libur?
+    - Wilayah Pengiriman: apakah pengiriman terlambat terjadi pada wilayah-wilayah tertentu saja?
+    - Jenis/Jasa Kurir: apakah pengiriman yang terlambat memiliki keterkaitan terhadap jasa kurir yang digunakan?
+    - Jenis promo/diskon yang ditawarkan: apakah diskon di atas 10% diberikan sebagai bentuk cuci gudang terhadap barang-barang yang tidak terlalu diminati?
+    - Tipe/kategori barang elektronik yang dijual (TV, Gadget, dll): apakah barang-barang pada rentang berat yang dibentuk merupakan tipe barang yang sejenis, dan apakah ada keterkaitannya terhadap keterlambatan pengiriman?
 2. Model dapat digunakan/di-deploy dalam sistem e-commerce untuk menyaring pesanan yang diduga akan mengalami keterlambatan, sehingga pengiriman tersebut dapat diprioritaskan dan/atau pelanggan dapat diberikan notifikasi terhadap dugaan keterlambatan tersebut.
 
 ## Kontributor
