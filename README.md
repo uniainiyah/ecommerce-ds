@@ -5,7 +5,8 @@ Final Project DS Rakamin Batch 31 - Kelompok 4 (Cobra)
 Dataset yang digunakan dalam proyek ini berasal dari Kaggle, [E-Commerce Shipping Data](https://www.kaggle.com/datasets/prachi13/customer-analytics).
 
 ## Requirements
-Seluruh pengolahan data dilakukan menggunakan Google Colab, dengan tambahan library `shap` dan `scikit-optimize` (proses instalasi library sudah ada di dalam notebook, hanya tinggal dijalankan)
+Seluruh pengolahan data dilakukan menggunakan Google Colab, dengan tambahan library `shap` dan `scikit-optimize` (proses instalasi library sudah ada di dalam notebook, hanya tinggal dijalankan).
+Untuk visualisasi notebook terbaik, gunakan nbviewer: https://nbviewer.org/github/mezkymy/ecommerce-ds/blob/main/Final_Project_DS_Rakamin_Batch_31_Kelompok_4_%28Cobra%29.ipynb
 
 ## Latar Belakang
 Sebuah perusahaan e-commerce skala internasional seringkali mengalami masalah keterlambatan dalam proses pengiriman barang. Berdasarkan data yang dimiliki, rasio pengiriman yang mengalami keterlambatan mencapai hampir 60% dari keseluruhan pengiriman. Hal ini dapat berdampak kepada tingkat kepuasan pelanggan (customer satisfaction) dan memungkinkan terjadinya penurunan laba akibat churning maupun tambahan biaya operasional yang perlu dikeluarkan, seperti biaya sewa gudang dan logistik. Perusahaan dapat menggunakan sebuah model machine learning yang dapat memprediksi apakah suatu pengiriman akan terlambat atau tidak sebagai upaya untuk meningkatkan rasio pengiriman tepat waktu.
